@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media screen and (min-device-width: 406px) and (max-device-width: 1170px) { 
+@media screen and (min-width: 406px) and (max-width: 1170px) { 
     
     #monkey{
     top:-30px;}
